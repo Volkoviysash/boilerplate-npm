@@ -11,5 +11,14 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Volkovich Alexandr"
+  "author": "Volkovich Alexandr",
+  "description": "A project that does something awesome",
+  "keywords": [
+    "project",
+    "awesome",
+    "something awesome",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.2.0"
 }
